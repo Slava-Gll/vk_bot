@@ -12,7 +12,7 @@ import time
 import glob
 import ntpath
 try:
-    import cfg_my
+    import cfg_my as cfg
 except Exception:
     import cfg
 
